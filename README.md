@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Snehashis
-- 👀 I’m interested in ...
+- 👀 I’m interested in taking up new projects, enhancements.
 - 🌱 I’m currently full stack web developer.
 - 💞️ I’m looking to collaborate on full stack projects.
 - 📫 Reach out to me at snehashisdas49@gmail.com
