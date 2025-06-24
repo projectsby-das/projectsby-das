@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Snehashis
 - 👀 I’m interested in taking up new projects, enhancements.
-- 🌱 I’m currently working as a DevOps Engineer.
+- 🌱 I’m currently working as a Cloud Infrastructure Migration Engineer.
 - 💞️ I’m looking to collaborate on full stack projects.
 - 📫 Reach out to me at snehashisdas49@gmail.com
 
